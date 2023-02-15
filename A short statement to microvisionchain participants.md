@@ -1,6 +1,6 @@
 # A short statement to microvisionchain participants: 
 
-The MVC chain published by microvisionchain.com has undergone several changes in the publishing scheme, and several Chinese people were eventually responsible for it, and has serious origin problems：
+The MVC chain published by microvisionchain.com has undergone several changes in the release scheme, and several Chinese people were eventually responsible for it, and has serious origin problems：
 
 1) it deviated from the original POW scheme and the second scheme of POW & tax extraction, and insisted on adopting the scheme of reserving 13.6 million coins (65% of the total supply) for issuance in Block #1, which has a great compliance risk (from SEC etc.) and the tendency to extract as much retail funds as possible & as early as possible;
 2) its underlying PCT patented MetaTXID technology is not authorized for use (a chinese company that has been authorized has also lost its technology license due to contract breach);
