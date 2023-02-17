@@ -1,4 +1,4 @@
-# A short statement to microvisionchain participants: 
+# A short statement to MicroVisionChain participants: 
 
 The MVC chain published by microvisionchain.com has undergone several changes in the release scheme, and several Chinese people were eventually responsible for it. It has some serious origin problems：
 
