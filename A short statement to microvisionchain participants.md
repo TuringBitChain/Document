@@ -11,4 +11,4 @@ As a result, the MicroVisionChain has become a project that cannot be developed 
 Anyone wishing to obtain detailed information can contact us privately by the mail: wszhang159@gmail.com with the topic label "microvisionchain".
 
 
-From: All Inventors and Developer of the MetaTXID technology (Key of Layer1 UTXO Token of MicroVisionChain ) & Developer of the "cpuminer" used in the MicroVisionChain project.
+**From: All Inventors and Developer of the MetaTXID technology (Key of Layer1 UTXO Token of MicroVisionChain ) & Developer of the "cpuminer" used in the MicroVisionChain project.**
