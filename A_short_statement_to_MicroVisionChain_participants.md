@@ -8,7 +8,7 @@ The MVC chain published by microvisionchain.com has undergone several changes in
 
 As a result, the MicroVisionChain has become a project that cannot be developed under a legal framework and is unlikely to be popularized as a role model for public chains, but rather a microvision project released by several individuals with the primary need for short-term profit based on technical inventions of others, and therefore will likely lead to scamming of enthusiastic participants. In order to avoid the loss of **data**, **money**, **time**, and **moral** damage to **well-intended and uninformed participants**, we would like to briefly state our **opposition position** and the reasons for it.
 
-We will take more action to stop the wrong blockchain and promote the right one.
+**We (including senior professor)** will take more action to stop the wrong blockchain and promote the right one.
 
 Anyone wishing to obtain detailed information can contact us privately by the mail: wszhang159@gmail.com with the topic label "microvisionchain".
 
