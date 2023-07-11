@@ -2,7 +2,7 @@
 
 On 7/2/21: Sunny (owner of Show3), who is currently the biggest leader in the MVC chain and the controllers of the MVC website, said **"Your TBC[1] has a lot of opportunity and imagination"**. Since then, he had continued to persuade me not to fork an old chain, but to make a new chain.
 
-On 2/4/22: NIGO (partner of Jason) contacted me for an offline meeting to seriously discuss a new blockchain based on our new MetaTXID technology[2], either a fork or a new chain. Since then, the MVC project has been launched after NIGO hired a good node developer, and the initial MVC stands for MetaverseChain.
+On 2/4/22: NIGO (partner of Jason) contacted me for an offline meeting to seriously discuss a new blockchain based on our new MetaTXID technology[2], either a fork or a new chain. Since then, the MVC project has been launched after NIGO hired a developer team specialized in the Rust rather than the C++ used in MVC, and the initial MVC stands for MetaverseChain.
 
 On 3/3/22: Sunny and NIGO (partner of Jason) visited me offline, and repeatedly assured me that they would follow my design and make a pure POW chain that is completely legal and compliant, which is my core requirement. **I personally expressed my trust in them and asked that the chain not be pre-mineable, which they were both in favor of.**
 
