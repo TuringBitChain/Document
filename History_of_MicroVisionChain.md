@@ -28,7 +28,7 @@ On 9/7/2022, 10/4/2022, 11/10/2022 and 1/14/2023: I have repeatedly asked them t
 
 **As MVC falls and disappears, I do hope that uninformed and defrauded followers of MVC will avoid the loss of time, money, reputation, and Stockholm Syndrome[7]. So, I've made two statements[8] and posted those in the MVC user group, but the posts are promptly removed by the MVC team. They are firstly afraid to face their dishonorable history, and then when they have to, they inevitably attack me. Thankfully, before they issued the illegal blockchain, I thoroughly saw their character and made a clean break with the illegal project. I don't have time to do more for now, but some statements are necessary to try to prevent good people from being deceived.**	
 
-**Whether or not you see this materials, and whether or not you believe this statement, is up to God.**
+**Whether or not you see these materials, and whether or not you believe these materials, is up to God.**
 
 [1]https://github.com/TuringBitChain
 
