@@ -12,8 +12,8 @@ MVC的发行团队是不诚实的、不值得信任，他们一直在阻止人�
 
 详情请看以下链接内容
 
-https://github.com/TuringBitChain/Document/blob/main/A_short_statement_to_MicroVisionChain_participants.md
+[https://github.com/TuringBitChain/Document/blob/main/A_short_statement_to_MicroVisionChain_participants.md](A_short_statement_to_MicroVisionChain_participants.md)
 
-https://github.com/TuringBitChain/Document/blob/main/History_of_MicroVisionChain.md
+[https://github.com/TuringBitChain/Document/blob/main/History_of_MicroVisionChain.md](History_of_MicroVisionChain.md)
 
 # MicroVisionChain MetaTXID 核心技术专利与代码所有方
