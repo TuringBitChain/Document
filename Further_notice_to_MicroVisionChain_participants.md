@@ -12,8 +12,8 @@ We hope that all MVC's participants will understand the fraud and concealment of
 
 For more information, please see the following links.
 
-https://github.com/TuringBitChain/Document/blob/main/A_short_statement_to_MicroVisionChain_participants.md
+[https://github.com/TuringBitChain/Document/blob/main/A_short_statement_to_MicroVisionChain_participants.md]()
 
-https://github.com/TuringBitChain/Document/blob/main/History_of_MicroVisionChain.md
+[https://github.com/TuringBitChain/Document/blob/main/History_of_MicroVisionChain.md](History_of_MicroVisionChain.md)
 
 # Owners of Patents and Code of MVC L1 Core Technology 
