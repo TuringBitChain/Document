@@ -8,7 +8,7 @@ Our technology has been authorized by patents and declared PCT international pat
 
 We hope that all MVC's participants will understand the fraud and concealment of the MVC's distribution team, protect your property and reputation, and resist their illegal acts together with us.
 
-In addition, when participating users have any losses on the MVC blockchain, please keep the evidence of the loss amount for future lawsuits to claim it back from the illegal distribution group of the MVC blockchain when appropriate.
+**In addition, when participating users have any losses on the MVC blockchain, please keep the evidence of the loss amount for future lawsuits to claim it back from the illegal distribution group of the MVC blockchain when appropriate.**
 
 For more information, please see the following links.
 
