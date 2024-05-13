@@ -30,18 +30,18 @@ On 9/7/2022, 10/4/2022, 11/10/2022 and 1/14/2023: I have repeatedly asked them t
 
 **Whether or not you see these materials, and whether or not you believe these materials, is up to God.**
 
-[1]https://github.com/TuringBitChain
+[1] https://github.com/TuringBitChain
 
-[2]Wenshuai Zhang, Jing Li (2021). Method and system for hierarchically cutting data in blockchain transaction, and storage medium.
+[2] [Wenshuai Zhang, Jing Li (2021). Method and system for hierarchically cutting data in blockchain transaction, and storage medium](https://patentscope2.wipo.int/search/en/detail.jsf?docId=WO2022262446&_cid=JP2-LC7103-58497-1).
 
-[3]https://github.com/TuringBitChain/cpuminer/commit/21f4772df9a4dd156e78f409635654bceeb84a61 (committed on Apr 22, 2022) 
+[3] https://github.com/TuringBitChain/cpuminer/commit/21f4772df9a4dd156e78f409635654bceeb84a61 (committed on Apr 22, 2022) 
 
-[4]https://archive.is/l68Ai and https://proofofwriting.com/57/
+[4] https://archive.is/l68Ai and https://proofofwriting.com/57/
 
-[5]https://cmsapi.nos.art/uploads/MVC_912f9a3d6d.pdf and https://cmsapi.nos.art/uploads/MVC_Technical_Documentation_4b5d9b4a4f.pdf 
+[5] https://cmsapi.nos.art/uploads/MVC_912f9a3d6d.pdf and https://cmsapi.nos.art/uploads/MVC_Technical_Documentation_4b5d9b4a4f.pdf 
 
-[6]https://patents.google.com/patent/CN113360578A and https://patentscope.wipo.int/search/zh/detail.jsf?docId=WO2022262446 (PCT patent)
+[6] https://patents.google.com/patent/CN113360578A and https://patentscope.wipo.int/search/zh/detail.jsf?docId=WO2022262446 (PCT patent)
 
-[7]https://en.wikipedia.org/wiki/Stockholm_syndrome 
+[7] https://en.wikipedia.org/wiki/Stockholm_syndrome 
 
-[8]https://github.com/TuringBitChain/Document/blob/main/A_short_statement_to_MicroVisionChain_participants.md and https://github.com/TuringBitChain/Document/blob/main/Further_notice_to_MicroVisionChain_participants.md 
+[8] https://github.com/TuringBitChain/Document/blob/main/A_short_statement_to_MicroVisionChain_participants.md and https://github.com/TuringBitChain/Document/blob/main/Further_notice_to_MicroVisionChain_participants.md 
