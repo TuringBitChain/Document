@@ -7,7 +7,7 @@ It has many serious origin problems including:
 2) Its underlying PCT patented MetaTXID technology (the key of the Layer1 UTXO Token and the only functional improvement of MicroVisionChain) is not authorized to be used for MVC chain. One related Chinese company that had been authorized had lost its technology license due to the contract breach. The related lawyer's letter is not appropriate to post here.
 3) The MetaTXID related code, as well as the compatible cpuminer program, were not developed by or authorized to the issuers and operators of MVC chain. They just robbed the technology and the code for short-term profit by using the form of one faulty DAO. 
  
-**As a result, the MicroVisionChain has become a project that cannot be developed under a legal framework and is unlikely to be popularized as a role model for public chains, but rather a micro-vision project released by several individuals with the primary need for short-term profit based on technical and code of others, and therefore will likely lead to scamming of enthusiastic participants.**
+**As a result, the MicroVisionChain has become a project that cannot be developed under a legal framework and is unlikely to be popularized as a role model for public chains, but rather a micro-vision project released by several individuals with the primary need for short-term profit based on technical and code of others, and therefore will likely scam lots of participants who are enthusiastic about the L1 technology.**
 
 **Subsequently, they are likely to exit the project, embellishing their departure as returning the control to the community, using a small Token incentive to transfer maintenance responsibilities to other developers, leaving the rest of the participants at great risk.**
 
