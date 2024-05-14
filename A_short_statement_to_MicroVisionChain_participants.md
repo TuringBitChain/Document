@@ -17,11 +17,11 @@ We, including senior professor and related responsible persons, will take more a
 
 For more information, please see the following links or contact us by the mail: wszhang159@gmail.com with a title including "microvisionchain" or "MVC".
 
-[https://github.com/TuringBitChain/Document/blob/main/History_of_MicroVisionChain.md](History_of_MicroVisionChain.md) 
+History of MicroVisionChain: [https://github.com/TuringBitChain/Document/blob/main/History_of_MicroVisionChain.md](History_of_MicroVisionChain.md) 
 
-[https://github.com/TuringBitChain/Document/blob/main/Further_notice_to_MicroVisionChain_participants.md](Further_notice_to_MicroVisionChain_participants.md)
+Further Notice: [https://github.com/TuringBitChain/Document/blob/main/Further_notice_to_MicroVisionChain_participants.md](Further_notice_to_MicroVisionChain_participants.md)
 
-[https://github.com/TuringBitChain/Document/blob/main/对MicroVisionChain链参与者的告知书.md](对MicroVisionChain链参与者的告知书.md)
+中文: [https://github.com/TuringBitChain/Document/blob/main/对MicroVisionChain链参与者的告知书.md](对MicroVisionChain链参与者的告知书.md)
 
 Best,
 
