@@ -4,14 +4,14 @@ The MVC chain published by microvisionchain.com has undergone several changes in
 
 It has many serious origin problems including:
 1) It deviated from the original "POW" scheme and the compromised "Miner Fund inside POW" scheme as in the [eCASH](https://gnc.e.cash/) [fork of BCH](https://proofofwriting.com/150/). They insisted on adopting the scheme of reserving 13.6 million coins (65% of the total supply) for issuance in Block #1, which has a great compliance risk (from SEC etc.) and has the tendency to extract as much retail funds as possible & as early as possible.
-2) Its underlying PCT patented MetaTXID technology (the key of the Layer1 UTXO Token and the only functional improvement of MicroVisionChain) is not authorized to be used for MVC chain. One related Chinese company that had been authorized had lost its technology license due to the contract breach. The related lawyer's letter is not appropriate to post here.
-3) The MetaTXID related code, as well as the compatible cpuminer program, were not developed by or authorized to the issuers and operators of MVC chain. They just robbed the technology and the code for short-term profit by using the form of one faulty DAO. 
+2) Its underlying PCT patented MetaTXID technology (the key of the Layer1 UTXO Token and the only functional improvement of MicroVisionChain) has never been licensed to the entire blockchain since they opposed the previous proposal to issue it in a globally compliant and legal manner. One related Chinese company that had been authorized had lost its technology license due to the contract breach. The related lawyer's letter is not appropriate to post here.
+5) The MetaTXID related code, as well as the compatible cpuminer program, were not developed by or authorized to the issuers and operators of MVC chain. They just robbed the technology and the code for short-term profit by using the form of one faulty DAO. We believe that every participant should bear unlimited responsibility for their own actions, but they consider the DAO as a way to hide from their responsibilities. This is the key disagreement.
  
 **As a result, the MicroVisionChain has become a project that cannot be developed under a legal framework and is unlikely to be popularized as a role model for public chains, but rather a micro-vision project released by several individuals with the primary need for short-term profit based on technical and code of others, and therefore will likely scam lots of participants who are enthusiastic about the L1 technology.**
 
 **Subsequently, they are likely to exit the project, embellishing their departure as returning the control to the community, using a small Token incentive to transfer maintenance responsibilities to other developers, leaving the rest of the participants at great risk.**
 
-In order to avoid the loss of **data**, **money**, **time**, and **moral** damage to **well-intended and uninformed participants**, we would like to briefly state our **opposition position** and the reasons for it.
+In order to avoid the loss of **data**, **money**, **time**, and **moral** damage to **well-intended and uninformed participants**, we would like to briefly state our **opposition position** and the reasons for it. Believing any of their words would lead to a huge waste of time.
 
 We, including senior professor and related responsible persons, will take more actions to stop the MVC blockchain and promote the technology in a right way.
 
